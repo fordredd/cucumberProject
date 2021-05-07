@@ -1,1 +1,1 @@
-Test feature file to perform push or pull operation.123123
+Test feature file to perform push or pull operation
