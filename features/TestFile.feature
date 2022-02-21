@@ -1,1 +1,1 @@
-Test feature file to perform push or pull operationDSNBn
+Test feature file to perform push or pull operation
