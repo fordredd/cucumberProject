@@ -1,1 +1,1 @@
-Test feature file to perform push or pull operationGZNAE
+Test feature file to perform push or pull operation
