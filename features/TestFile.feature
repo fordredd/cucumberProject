@@ -1,1 +1,1 @@
-Test feature file to perform push or pull operationOGKaO
+Test feature file to perform push or pull operation
