@@ -1,1 +1,1 @@
-Test feature file to perform push or pull operationOsQBe
+Test feature file to perform push or pull operation
