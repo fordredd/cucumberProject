@@ -1,1 +1,1 @@
-Test feature file to perform push or pull operationSQkZJ
+Test feature file to perform push or pull operation
