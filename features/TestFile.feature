@@ -1,1 +1,1 @@
-Test feature file to perform push or pull operationArKNU
+Test feature file to perform push or pull operation
