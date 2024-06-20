@@ -1,1 +1,1 @@
-Test feature file to perform push or pull operationRPMXZ
+Test feature file to perform push or pull operation
